@@ -1,4 +1,4 @@
 practice file10
 this file is send to lord branch
-this i modified file and moddifieds are saved
+this i modified file and moddifies are saved
 data will be sending to local repo
