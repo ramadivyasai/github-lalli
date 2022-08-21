@@ -1,0 +1,5 @@
+linux commands
+pwd
+ls
+rmdir
+mkdir
